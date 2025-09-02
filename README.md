@@ -29,7 +29,7 @@
 
 ---
 
-### 🔹 YouTube Sentiment Analysis Web App (link is provat)  
+### 🔹 YouTube Sentiment Analysis Web App (link is private)  
 **Tech Stack:** Transformers (NLP), Hugging Face, Docker, AWS EC2, Flask  
 🎥 Built a sentiment classifier for YouTube comments using Transformer models.  
 🚀 Deployed as a containerized web application using Docker and AWS EC2.  
