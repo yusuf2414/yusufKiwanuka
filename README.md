@@ -9,7 +9,7 @@
       <p>
             Graduate Statistics student from <strong>San Diego State University</strong>, passionate about solving real-world problems using 
         <strong>statistical modeling</strong>, <strong>machine learning</strong>, and <strong>data visualization</strong>.<br><br>
-            I like my models like I like my coffee — grounded in theory, with a shot of machine learning!1
+            I like my models the same way i like my coffee , grounded in theory, with a shot of machine learning!
       </p>
     </td>
   </tr>
