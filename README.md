@@ -17,12 +17,28 @@
 
 ---
 
-##  Summary
+## Dataset: Taiwanese Bankruptcy Prediction  
+🔗 [Dataset URL](https://archive.ics.uci.edu/dataset/572/taiwanese+bankruptcy+prediction)
 
--  Experienced in data wrangling, predictive analytics, and visualization  
--  Skilled in Python, R, SQL, Tableau, Docker, and AWS EC2 
--  Blend of traditional statistical techniques and cutting-edge machine learning  
--  Automated data pipelines
+### Data Description  
+This dataset contains **financial information** from a large number of Taiwanese companies. The **target variable** is `Bankrupt?`, a binary indicator where:
+- `1` = Bankrupt  
+- `0` = Financially healthy  
+
+There are **95 independent variables**, covering key financial metrics such as:
+- **Profitability**
+- **Debt ratios**
+- **Liquidity**
+- **Asset turnover**
+
+---
+
+## Data Science Book Source   
+**Title**: *Deep Learning*  
+**Authors**: Ian Goodfellow, Yoshua Bengio, and Aaron Courville  
+🔗 [Book URL](http://www.deeplearningbook.org/)
+
+This book provides a comprehensive introduction to **machine learning fundamentals**, starting with the mathematical foundations like **linear algebra and calculus**, and progressing to advanced topics such as **deep generative models** and **unsupervised learning**.
 
 ---
 
