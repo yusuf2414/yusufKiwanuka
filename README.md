@@ -22,7 +22,7 @@
 -  Experienced in data wrangling, predictive analytics, and visualization  
 -  Skilled in Python, R, SQL, Tableau, Docker, and AWS EC2 
 -  Blend of traditional statistical techniques and cutting-edge machine learning  
--  Automated data pipelines using **cron jobs** and **API-based reporting**
+-  Automated data pipelines
 
 ---
 
