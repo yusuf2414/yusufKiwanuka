@@ -7,9 +7,9 @@
     <td width="70%">
       <h1>👋 Hi, I'm Yusuf Kiwanuka</h1>
       <p>
-        🎓 Graduate Statistics student from <strong>San Diego State University</strong>, passionate about solving real-world problems using 
+            Graduate Statistics student from <strong>San Diego State University</strong>, passionate about solving real-world problems using 
         <strong>statistical modeling</strong>, <strong>machine learning</strong>, and <strong>data visualization</strong>.<br><br>
-        I thrive at the intersection of traditional statistics and modern data science.
+            I like my models like I like my coffee — grounded in theory, with a shot of machine learning!1
       </p>
     </td>
   </tr>
